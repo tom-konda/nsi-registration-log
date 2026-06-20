@@ -15,5 +15,6 @@
 |  登録可   |  ワンカルビ   |     |  amenity   |   restaurant  |     |  関東、関西、九州   |  Q108762176   |  cuisine=barbecue   |     |
 |  登録可   |  叙々苑   |  Jojoen   |  amenity   |   restaurant  |     |  全国（主に関東）   |  Q11271464   |  cuisine=barbecue   |     |
 |  登録可   |  焼肉トラジ   |   Yakiniku Toraji  |  amenity   |   restaurant  |     |  関東、愛知、京都、大阪、福岡   |  Q108803097   |  cuisine=barbecue   |     |
+|  登録可   |  ダイワサイクル   |   Daiwa Cycle  |  shop   |   bicycle  |     |  関東、愛知、関西   |  Q109598687   |     |     |
 
 &nbsp;
